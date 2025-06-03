@@ -50,4 +50,4 @@ O sistema realiza as seguintes etapas:
 
 
 Link projeto wokwi: https://wokwi.com/projects/432708979210447873 <br>
-Link vídeo demonstrativo:
+Link vídeo demonstrativo: https://youtu.be/3dCwsJ2L7f8
