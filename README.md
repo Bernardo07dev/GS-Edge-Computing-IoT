@@ -50,4 +50,5 @@ O sistema realiza as seguintes etapas:
 
 
 Link projeto wokwi: https://wokwi.com/projects/432708979210447873 <br>
-Link vídeo demonstrativo: https://youtu.be/3dCwsJ2L7f8
+Link vídeo demonstrativo: https://youtu.be/3dCwsJ2L7f8 <br>
+Integrantes: Bernardo Moreira Lopes Sousa rm:564103 / Francisco Nogueira de Queiroz rm:566309
